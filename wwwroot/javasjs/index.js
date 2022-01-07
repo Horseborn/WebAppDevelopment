@@ -8,7 +8,7 @@
     theForm.hide();
     var button = $("#buyButton");
     button.on("click", function () {
-        console.log("Buying a bloody cock and ball item")
+        console.log("Buying an item")
     })
     
     let productInfo = $(".product-props li");
